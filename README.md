@@ -23,6 +23,6 @@ user_token_ben.json
 user_token_ben.txt
 ##release/ 目录 测试结果目录
 latest_create_token ---- 单并发创建200次  
-latest_create_token_concurrent  ----100并发创建2000次
-latest_validate_token ---- 单并发验证10000次
+latest_create_token_concurrent  ----100并发创建2000次  
+latest_validate_token ---- 单并发验证10000次  
 latest_validate_token_concurrent ----100并发验证100000次
